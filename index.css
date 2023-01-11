@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(229, 205, 205);
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(168, 167, 227);
+    max-width: 60%;
+    display: flex;
+    justify-content: space-around;
+    border: 10px solid black;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+h1 {
+    font-size: 3rem;
+}
+.board {
+    font-size: 5rem;
+    background-color: rgb(23, 14, 21);
+    border: 5px solid black;
+    border-radius: 5px;
+    max-width: 100%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: rgb(243, 28, 28);
+    
+
+}
